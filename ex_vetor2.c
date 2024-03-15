@@ -1,4 +1,4 @@
-//ler um vetor, encontrar o menor valor, exibir e contar quantas ocorrencuas existem no vetor
+//ler um vetor, encontrar o menor valor, exibir e contar quantas ocorrencias existem no vetor
 #include <stdio.h>
 #define T 10
 int main(){
